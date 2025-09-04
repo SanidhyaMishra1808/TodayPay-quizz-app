@@ -39,4 +39,4 @@ Follow these instructions to run the project locally.
    npm run dev
 
 ###🖼️ Screenshots
-!([output.png])
+![A screenshot of the Quizz App's output](output.png)
