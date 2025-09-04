@@ -31,18 +31,3 @@ Follow these instructions to run the project locally.
    ```bash
    git clone https://github.com/your-username/today-pay-quiz-app.git
    cd today-pay-quiz-app
-2.Install dependencies:
-  npm install
-3.Start the development server:
-  npm run dev
-
-🛠️ Built With
-
-React
- – UI library
-
-Vite
- – Build tool
-
-Open Trivia Database
- – Free trivia API
