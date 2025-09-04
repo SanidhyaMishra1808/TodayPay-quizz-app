@@ -40,3 +40,11 @@ Follow these instructions to run the project locally.
 
 ###🖼️ Screenshots
 ![A screenshot of the Quizz App's output](output.png)
+
+###🛠️ Built With
+React
+ – UI library
+Vite
+ – Build tool
+Open Trivia Database
+ – Free trivia API
