@@ -37,3 +37,6 @@ Follow these instructions to run the project locally.
 2. Start the server
    ```bash
    npm run dev
+
+###🖼️ Screenshots
+!([output.png])
