@@ -42,9 +42,9 @@ Follow these instructions to run the project locally.
 ![A screenshot of the Quizz App's output](output.png)
 
 ###🛠️ Built With
-[React](https://react.dev/)
- – UI library
-[Vite](https://vite.dev/)
- – Build tool
-[Open Trivia Database](https://opentdb.com/api_config.php)
- – Free trivia API
+   1.[React](https://react.dev/)
+       – UI library
+   2.[Vite](https://vite.dev/)
+       – Build tool
+   3.[Open Trivia Database](https://opentdb.com/api_config.php)
+       – Free trivia API
