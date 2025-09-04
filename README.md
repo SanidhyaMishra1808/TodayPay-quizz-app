@@ -24,10 +24,16 @@ Follow these instructions to run the project locally.
 
 ### Prerequisites
 - **Node.js** (v16+ recommended)
-- **npm** or **yarn**
-
-### Installation
+- ### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/today-pay-quiz-app.git
    cd today-pay-quiz-app
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+2. Start the server
+   ```bash
+   npm run dev
