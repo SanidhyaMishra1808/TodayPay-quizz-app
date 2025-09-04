@@ -42,6 +42,6 @@ Follow these instructions to run the project locally.
 ![A screenshot of the Quizz App's output](output.png)
 
 ## 🛠️ Built With
-   1.[React](https://react.dev/)
-   2.[Vite](https://vite.dev/)
-   3.[Open Trivia Database](https://opentdb.com/api_config.php)
+1.[React](https://react.dev/)
+2.[Vite](https://vite.dev/)
+3.[Open Trivia Database](https://opentdb.com/api_config.php)
