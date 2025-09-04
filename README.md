@@ -1,12 +1,48 @@
-# React + Vite
+# Today Pay Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A trivia quiz application built with **React + Vite**.  
+This project was developed as part of a **recruitment assignment for TodayPay**.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [https://today-pay-quizz-app.vercel.app/](https://today-pay-quizz-app.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Multiple-choice quiz questions pulled from the **Open Trivia API**  
+- 📊 Progress tracking with a visual progress bar  
+- 📝 Answer summary at the end showing correct, incorrect, and skipped questions  
+- 💾 Local storage persistence – resume where you left off  
+- 🔄 Restart option to replay the quiz anytime  
+- ⏩ Skip functionality to move past tricky questions  
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to run the project locally.
+
+### Prerequisites
+- **Node.js** (v16+ recommended)
+- **npm** or **yarn**
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/today-pay-quiz-app.git
+   cd today-pay-quiz-app
+2.Install dependencies:
+  npm install
+3.Start the development server:
+  npm run dev
+
+🛠️ Built With
+
+React
+ – UI library
+
+Vite
+ – Build tool
+
+Open Trivia Database
+ – Free trivia API
