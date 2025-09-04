@@ -22,7 +22,7 @@ This project was developed as part of a **recruitment assignment for TodayPay**.
 
 Follow these instructions to run the project locally.
 
-### Prerequisites
+## Prerequisites
 - **Node.js** (v16+ recommended)
 - ### Installation
 1. Clone the repository:
@@ -38,10 +38,10 @@ Follow these instructions to run the project locally.
    ```bash
    npm run dev
 
-###🖼️ Screenshots
+## 🖼️ Screenshots
 ![A screenshot of the Quizz App's output](output.png)
 
-###🛠️ Built With
+## 🛠️ Built With
    1.[React](https://react.dev/)
    2.[Vite](https://vite.dev/)
    3.[Open Trivia Database](https://opentdb.com/api_config.php)
